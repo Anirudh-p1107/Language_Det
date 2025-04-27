@@ -42,6 +42,10 @@ The model will classify text into different languages such as Hindi, Urdu, Benga
 - Improve accuracy for short text inputs
 - Mobile app integration
 
----
+ 
+ "Language is the road map of a culture. It tells you where its people come from and where they are going."
 
-> "Language is the road map of a culture. It tells you where its people come from and where they are going."
+ ## Demonstration 
+ You can watch a sample video on how the model works
+ - [Click here](https://www.youtube.com/watch?v=zDmqi9xLhhk)
+
