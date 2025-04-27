@@ -1,9 +1,11 @@
 # Language Detection Model (Indian Languages)
 <div align="center">
-<img src="lang img.png" alt="Language Detection Landscape" width="800" height="600">
-</div>div
+<img src="lang img.png" alt="Language Detection Landscape" width="700" height="500">
+</div>
+
 ## Project Overview
-This project focuses on building a **Language Detection Model** using various **Indian languages including English**. The model will classify text into different languages such as Hindi, Urdu, Bengali, and more.
+This project focuses on building a **Language Detection Model** using various **Indian languages including English**.
+The model will classify text into different languages such as Hindi, Urdu, Bengali, and more.
 
 ## Key Features
 - **Multi-language support** (focus on Indian languages)
